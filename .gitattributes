@@ -1,2 +1,2 @@
-*.md linguist-language=none
-*.png linguist-language=none
+*.md linguist-language=null
+*.png linguist-language=null
