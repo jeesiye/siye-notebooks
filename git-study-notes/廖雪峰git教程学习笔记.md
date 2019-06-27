@@ -37,4 +37,4 @@ git config -l : 查看 global 级别的配置信息列表,文件在~/.gitconfig 
 git branch : 查看分支  
 git branch 'branch-name' : 创建分支  
 git checkout 'branch-name' : 切换分支  
-git branch -d `branch-name` : 删除分之
+git branch -d `branch-name` : 删除分支

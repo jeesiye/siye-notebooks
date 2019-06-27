@@ -1,0 +1,15 @@
+- `@BootstrapWith`  
+- `@ContextConfiguration`  
+- `@WebAppConfiguration`  
+- `@ContextHierarchy`  
+- `@ActiveProfiles`  
+- `@TestPropertySource`  
+- `@DirtiesContext`  
+- `@TestExecutionListeners`  
+- `@Commit`  
+- `@Rollback`  
+- `@BeforeTransaction`  
+- `@AfterTransaction`  
+- `@Sql`  
+- `@SqlConfig`  
+- `@SqlGroup`  
