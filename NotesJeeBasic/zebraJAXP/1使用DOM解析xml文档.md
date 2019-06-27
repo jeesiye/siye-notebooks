@@ -19,6 +19,8 @@ DOM树中的对象类型
 - `org.w3c.dom.ProcessingInstruction`,代表XML中的处理指令.  
 - `org.w3c.dom.Notation`,代表XML中声明的符号.  
 
+![](assets/markdown-img-paste-20190627170823622.png)
+
 DOM的解析器  
 - `javax.xml.parsers.DocumentBuilder`  
 - `javax.xml.parsers.DocumentBuilderFactory`  
@@ -38,8 +40,6 @@ DocumentBuilderFactory常用方法
 - `javax.xml.parsers.DocumentBuilderFactory.setXIncludeAware(boolean)`  
 - `javax.xml.parsers.DocumentBuilderFactory.setAttribute(String, Object)`  
 - `javax.xml.parsers.DocumentBuilderFactory.setFeature(String, boolean)`  
-
----
 
 Document常用方法  
 - `org.w3c.dom.Document.getDocumentElement()`,获取XML的根节点.  
