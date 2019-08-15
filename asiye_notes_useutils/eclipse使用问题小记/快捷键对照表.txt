@@ -1,0 +1,18 @@
+content assist(快捷提示) : ctrl + `
+line end(跳转行尾) : ctrl + right
+delete line(删除整行) : shift + ctrl + k
+select enclosing element(选择当前单词) : ctrl + d
+
+
+
+
+
+eclipse内置通用快捷键(不推荐修改)
+[通用]
+ctrl+1 : 最常用的快捷提示
+
+
+
+[单词]
+shift+ctrl+x : 全拼大写
+shift+ctrl+y : 全拼小写
